@@ -88,7 +88,7 @@ Features, environments and story elements may change during development.
 
 **In Development**
 
-More updates, screenshots and information will be added as the project progresses.
+More updates will be coming, BS2 in works as of 26/11/16
 
 ---
 
